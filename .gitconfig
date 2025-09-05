@@ -1,0 +1,9 @@
+[user]
+    name = Marcelo Luis Simone Lucas
+    email = marceloluis.simonelucas
+
+[core]
+    editor = code --wait
+
+[init]
+    defaultBranch = main
